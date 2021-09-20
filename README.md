@@ -15,7 +15,14 @@ check Post method<br/>
 Endpoint : http://localhost:5004<br/>
 **Fetching Code By BrandName**<br/>
 give input (BrabdName) <br/>
-Endpoint : http://localhost:5006
+Endpoint : http://localhost:5006 
+<br/>
+Total time: 3 hr <br/>
+
+1st Part: 1 hr  <br/>
+2nd Part : 1 hr 30 min + debug and test all 
+
+
 
 
 

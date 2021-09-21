@@ -12,12 +12,12 @@ Database: Postgres
 **Generating CouponCode:**<br/>
 Give Input (count , Alphanumeric as string) // I have Some Idea but within this time limit I cannot elaborate.<br/>
 check Post method<br/>
-Endpoint : http://localhost:5004 <br/>
+Endpoint : http://localhost:5004/swagger/Index.html <br/>
 **Fetching Code By BrandName**<br/>
 give input (BrabdName) <br/>
 Endpoint : 
 <br/>
-http://localhost:5006 
+http://localhost:5006/swagger/Index.html 
 <br/>
 Total time: 3 hr <br/>
 
